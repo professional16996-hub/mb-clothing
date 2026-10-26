@@ -1,0 +1,6 @@
+{
+  "name": "VELORA — The Style Edit",
+  "description": "High-end luxury fashion boutique featuring curated seasonal edits, timeless architectural tailoring, and effortless silhouettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
