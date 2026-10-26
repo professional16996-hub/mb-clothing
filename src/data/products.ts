@@ -40,8 +40,8 @@ export const PRODUCTS: Product[] = [
       { name: 'Charcoal Noir', hex: '#262626' },
       { name: 'Warm Alabaster', hex: '#EAE6DF' }
     ],
-    primaryImage: '/src/assets/images/product_cashmere_coat_1793032834134.jpg',
-    secondaryImage: '/src/assets/images/hero_velora_editorial_1793032834082.jpg',
+    primaryImage: '/images/product_cashmere_coat.jpg',
+    secondaryImage: '/images/hero_velora_editorial.jpg',
     rating: 4.95,
     reviewCount: 38,
     featured: true,
@@ -97,8 +97,8 @@ export const PRODUCTS: Product[] = [
       { name: 'Champagne Pearl', hex: '#EBE5D8' },
       { name: 'Oxblood Crimson', hex: '#4A151B' }
     ],
-    primaryImage: '/src/assets/images/product_noir_silk_dress_1793032835285.jpg',
-    secondaryImage: '/src/assets/images/product_noir_silk_dress_1793032835285.jpg',
+    primaryImage: '/images/product_noir_silk_dress.jpg',
+    secondaryImage: '/images/product_noir_silk_dress.jpg',
     rating: 4.92,
     reviewCount: 44,
     featured: true,
@@ -145,8 +145,8 @@ export const PRODUCTS: Product[] = [
       { name: 'Obsidian Black', hex: '#1C1917' },
       { name: 'Slate Taupe', hex: '#736B63' }
     ],
-    primaryImage: '/src/assets/images/product_architectural_blazer_1793032836930.jpg',
-    secondaryImage: '/src/assets/images/hero_velora_editorial_1793032834082.jpg',
+    primaryImage: '/images/product_architectural_blazer.jpg',
+    secondaryImage: '/images/hero_velora_editorial.jpg',
     rating: 4.98,
     reviewCount: 52,
     featured: true,
@@ -192,7 +192,7 @@ export const PRODUCTS: Product[] = [
       { name: 'Espresso Cognac', hex: '#3E2723' },
       { name: 'Forest Moss', hex: '#233226' }
     ],
-    primaryImage: '/src/assets/images/product_leather_tote_1793032835594.jpg',
+    primaryImage: '/images/product_leather_tote.jpg',
     rating: 4.96,
     reviewCount: 31,
     featured: true,
@@ -237,7 +237,7 @@ export const PRODUCTS: Product[] = [
       { name: 'Midnight Charcoal', hex: '#262628' },
       { name: 'Pistachio Sage', hex: '#CCD5C1' }
     ],
-    primaryImage: '/src/assets/images/hero_velora_editorial_1793032834082.jpg',
+    primaryImage: '/images/hero_velora_editorial.jpg',
     rating: 4.89,
     reviewCount: 29,
     featured: false,
@@ -269,7 +269,7 @@ export const PRODUCTS: Product[] = [
       { name: 'Chalk Stone', hex: '#E5E0D8' },
       { name: 'Deep Navy', hex: '#1A2238' }
     ],
-    primaryImage: '/src/assets/images/hero_velora_editorial_1793032834082.jpg',
+    primaryImage: '/images/hero_velora_editorial.jpg',
     rating: 4.91,
     reviewCount: 27,
     featured: false,
@@ -285,7 +285,7 @@ export const STYLE_LOOKS: StyleLook[] = [
     title: 'The Monolith Tailoring',
     subtitle: 'Power dressing reimagined through gentle restraint',
     season: 'Autumn / Winter 2026',
-    editorialImage: '/src/assets/images/hero_velora_editorial_1793032834082.jpg',
+    editorialImage: '/images/hero_velora_editorial.jpg',
     quote: 'True luxury lies in the discipline of subtraction.',
     stylistNote: 'Pair the Sculpted Hourglass Blazer with the fluid Pleated Palazzo Trousers, grounded by the hand-lacquered Box-Calfskin Tote. A timeless silhouette built for boardrooms and galas alike.',
     productIds: ['velora-03', 'velora-06', 'velora-04']
@@ -296,7 +296,7 @@ export const STYLE_LOOKS: StyleLook[] = [
     title: 'Midnight Silk Reverie',
     subtitle: 'Fluid evening elegance cut on the true bias',
     season: 'Autumn / Winter 2026',
-    editorialImage: '/src/assets/images/product_noir_silk_dress_1793032835285.jpg',
+    editorialImage: '/images/product_noir_silk_dress.jpg',
     quote: 'Silk responds to the wearer’s rhythm like nothing else on earth.',
     stylistNote: 'Drape the Asymmetric Bias Noir Gown alone or under the unbuttoned Monolith Coat when transitioning from nightfall into the salon.',
     productIds: ['velora-02', 'velora-01', 'velora-04']
@@ -307,7 +307,7 @@ export const STYLE_LOOKS: StyleLook[] = [
     title: 'The Cashmere Sanctuary',
     subtitle: 'Tactile warmth meets sculpted architectural volume',
     season: 'Autumn / Winter 2026',
-    editorialImage: '/src/assets/images/product_cashmere_coat_1793032834134.jpg',
+    editorialImage: '/images/product_cashmere_coat.jpg',
     quote: '680 grams of double-faced Mongolian cashmere wrapped like architecture.',
     stylistNote: 'Layer the Cocoon Ribbed Turtleneck under the belted Monolith Coat for an effortlessly elevated winter uniform.',
     productIds: ['velora-01', 'velora-05', 'velora-04']

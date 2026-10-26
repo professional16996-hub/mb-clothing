@@ -10,7 +10,7 @@ export const AtelierStorySection: React.FC = () => {
           <div className="lg:col-span-6 relative">
             <div className="aspect-[4/3] bg-stone-300 overflow-hidden border border-stone-300 shadow-sm relative group">
               <img
-                src="/src/assets/images/product_architectural_blazer_1793032836930.jpg"
+                src="/images/product_architectural_blazer.jpg"
                 alt="Velora Atelier Craftsmanship"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover object-center group-hover:scale-102 transition-transform duration-700"

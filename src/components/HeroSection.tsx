@@ -74,7 +74,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
           <div className="lg:col-span-7 relative">
             <div className="relative aspect-[16/10] sm:aspect-[16/9] lg:aspect-[4/3] overflow-hidden bg-stone-200 shadow-sm border border-stone-200/60 group">
               <img
-                src="/src/assets/images/hero_velora_editorial_1793032834082.jpg"
+                src="/images/hero_velora_editorial.jpg"
                 alt="Velora Autumn/Winter Campaign - Sculptural Wool Coat and Tailored Silhouettes"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover object-center transform group-hover:scale-102 transition-transform duration-700 ease-out"
